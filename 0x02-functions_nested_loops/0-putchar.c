@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-
-=======
 #include "main.h"
 /**
  * main - Prints _putchar as a message.
@@ -20,4 +17,3 @@ int main(void)
 	_putchar('\n');
 	return (0);
 }
->>>>>>> b54e90e096de8f4c72b81008d80a05425c5f146d
